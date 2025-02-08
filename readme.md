@@ -2,4 +2,4 @@
 
 
 ## Contribuidores
-- Vinicius Bretas
+- Victor Ribeiro
