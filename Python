@@ -1,0 +1,3 @@
+# Estudos em python
+def main():
+    print("Olá, mundo!")
