@@ -7,6 +7,6 @@
 a = int(input('Digite um número: '))
 
 if (a % 2 == 0):
-    print('a é par')
+    print('Seu número é par')
 else:
-    print('a é impar')
+    print('Seu número é impar')
