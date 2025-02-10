@@ -1,9 +1,6 @@
 # Estudos em python
 
 
-
-
-
 a = int(input('Digite um número: '))
 
 if (a % 2 == 0):
