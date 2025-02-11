@@ -1,3 +1,5 @@
+####BÁSICOS####
+
 spam_amount = 0
 #isso é uma associação de valores, os python associa valores a variaveis a partir do sinal de = uma vez.
 #voce não precisa declarar o tipo de valor
