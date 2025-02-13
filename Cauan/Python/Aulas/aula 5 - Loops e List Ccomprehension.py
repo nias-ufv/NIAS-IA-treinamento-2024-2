@@ -66,4 +66,6 @@ print(pqns_planetas)
 gritar_pqns_planetas = [planeta.upper() + '!' for planeta in planetas if len(planeta) < 6]
 print(gritar_pqns_planetas)
 
+help(any)
+
 ###FIM DA AULA###
