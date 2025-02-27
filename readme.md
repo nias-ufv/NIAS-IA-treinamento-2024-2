@@ -2,5 +2,6 @@
 
 
 ## Contribuidores
-- Vinicius Bretas
 - Cauan de Oliveira
+- Victor Ribeiro
+- Vinicius Bretas
