@@ -3,3 +3,4 @@
 
 ## Contribuidores
 - Vinicius Bretas
+- Cauan de Oliveira
